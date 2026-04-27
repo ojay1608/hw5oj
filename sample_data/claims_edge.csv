@@ -1,0 +1,11 @@
+claim_id,payer,submission_date,amount,status,denial_code
+CLM-101,Aetna,01/15/2025,1250.00,paid,
+CLM-102,BlueCross,2025-02-30,$875.50,denied,CO-4
+CLM-103,Cigna,not-a-date,2100.00,pending,
+CLM-104,UnitedHealth,2025-03-10,640.00,APPROVED,
+CLM-105,Aetna,2025-01-05,3,200.00,denied,PR-96
+CLM-106,BlueCross,2026-12-01,510.00,pending,
+CLM-107,,2025-02-20,750.00,denied,CO-97
+CLM-108,Cigna,2025-01-28,,pending,
+CLM-109,Aetna,2025-04-01,1900.00,paid,
+CLM-110,UnitedHealth,2025-03-15,4400.00,denied,PR-204

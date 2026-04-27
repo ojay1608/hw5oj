@@ -1,0 +1,4 @@
+claim_id,payer,submission_date,amount,status
+CLM-201,Aetna,2025-04-01,1200.00,paid
+CLM-202,BlueCross,2025-04-10,850.00,denied
+CLM-203,Cigna,2025-04-15,2300.00,pending
