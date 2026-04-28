@@ -1,6 +1,6 @@
 # hw5-oj: claim-aging-analyzer
 
-> **Video walkthrough:** [ADD YOUR ZOOM/YOUTUBE LINK HERE]
+> **Video walkthrough:** https://youtu.be/lWVHq1bZICQ?si=B-Mb-TMWhz2bX83W
 
 ---
 
